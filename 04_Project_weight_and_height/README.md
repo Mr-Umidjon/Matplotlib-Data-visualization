@@ -24,4 +24,4 @@
 
 **-** Ma'lumotlarni tasvirlang.
 
-![resutl image](data/result.jpg)
+![resutl image](data/result.png)
